@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "TMVAClassification.C": "cpp",
+        "createData.C": "cpp"
+    }
+}
