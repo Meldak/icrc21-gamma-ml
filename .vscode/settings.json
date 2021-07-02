@@ -1,5 +1,7 @@
 {
     "files.associations": {
+        "*.html": "html",
+        "**/templates/**/*.html": "django-html",
         "TMVAClassification.C": "cpp",
         "createData.C": "cpp",
         "TMVAClassification_BDT.class.C": "cpp",
@@ -54,7 +56,14 @@
         "TMVAClassification-orig.C": "cpp",
         "TMVA-SVN.C": "cpp",
         "TMVA-SVM.C": "cpp",
-        "TMVA_SVM.C": "cpp"
+        "TMVA_SVM.C": "cpp",
+        "cstring": "cpp",
+        "ctime": "cpp",
+        "list": "cpp",
+        "iomanip": "cpp",
+        "chrono": "cpp",
+        "codecvt": "cpp",
+        "ratio": "cpp"
     },
     
 }
