@@ -1,0 +1,3 @@
+*.root
+*.o
+TMVAClassificationCategory/dataset/weights/*
